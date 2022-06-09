@@ -8,15 +8,19 @@
 
 本站点仍在建设和完善中！欢迎提供、求资源，种类不限。
 
-求资源请联系：ohpinkbrian@gmail.com
+求资源请联系：[Gmail](ohpinkbrian@gmail.com)
 
-或：https://t.me/Tricker95
+或：[Telegram](https://t.me/Tricker95)
 
 （有联系方式的朋友直接联系即可）
 
 纯粹个人兴趣驱动下搭建的网盘分享站点，需出墙后访问的文件会在文件夹后标注，文件种类繁多，会尽量根据类型分类。
 
 enjoy it！
+
+# 更新记录
+
+[云盘更新记录](https://whip-lentil-c9b.notion.site/3d58f6009e574f699b7d026efca5c9a3)
 
 # 如何使用
 
