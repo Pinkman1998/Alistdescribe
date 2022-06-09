@@ -1,5 +1,4 @@
-<!-- Add banner here -->
-![Banner](https://github.com/Pinkman1998/Alistindex/blob/e81905253814e5369b64f6e1b33cd2b5d7dd81df/8973491896_4b3bb6ce00_o.png)
+
 
 # 康康的个人云盘
 
