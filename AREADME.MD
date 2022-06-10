@@ -15,13 +15,15 @@
 
 本站点仍在建设和完善中！欢迎提供、求资源，种类不限。
 
-求资源请联系：[Gmail](https://ohpinkbrian@gmail.com)
+求资源请联系：[Gmail](mailto:ohpinkbrian@gmail.com)
 
 或：[Telegram](https://t.me/Tricker95)
 
 也可以直接填写[资源需求收集表](https://docs.qq.com/form/page/DWEhvcHpkTHlNVkdC#/fill )
 
 （有联系方式的朋友直接联系即可）
+
+🈲NSFW文件夹密码联系方式同上。
 
 纯粹个人兴趣驱动下搭建的网盘分享站点，需出墙后访问的文件会在文件夹后标注，文件种类繁多，会尽量根据类型分类。
 
