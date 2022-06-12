@@ -1,6 +1,6 @@
 # 重要！
 
-## 为了尽量不出现因为兼容问题导致的无法播放等情况，请手机用户优先使用[夸克浏览器](https://myquark.cn/)进行在线播放<br><br>电脑用户在线播放失败的请下载请安装[PotPlayer](https://drive.pinkman98.xyz/d/软件/影音播放/PotPlayerSetup64.exe)后点击播放页面的Potplayer按钮在线播放。
+## 为了尽量不出现因为兼容问题导致的无法播放等情况，请手机用户优先使用[夸克浏览器](https://myquark.cn/)进行在线播放<br><br>电脑用户在线播放失败的请下载请安装[PotPlayer](https://drive.pinkman98.xyz/软件/WIN软件/影音播放/PotPlayerSetup64.exe)后点击播放页面的Potplayer按钮在线播放。
 
 为了不让视频文件兼容问题影响您的使用体验，请尽量遵循本指南进行使用。
 
