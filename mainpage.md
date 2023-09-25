@@ -2,7 +2,7 @@
 
 #### <p align="center"> 不奢求找寻些什么了，保持清醒就够了</p>
 
-<p align="center"> (https://pic.imgdb.cn/item/6511352bc458853aef181eba.jpg)</p>
+<p align="center"> https://pic.imgdb.cn/item/6511352bc458853aef181eba.jpg</p>
 
 # 重要！
 
